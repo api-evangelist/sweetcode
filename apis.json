@@ -1,0 +1,53 @@
+{
+    "name": "Sweetcode",
+    "description": "<p>Creating a meaningful voice is our business with our customers, and our passion within our community. Sweetcode is a site owned and managed by Fixate IO. Its purpose is simple&mdash;to give techies a place to share what they know, and impact the market with higher-value blog content.&nbsp;<\/p>",
+    "image": "http:\/\/kinlane-productions.s3.amazonaws.com\/api-evangelist-site\/company\/logos\/Sweetcode-gray-shadow-300px.png",
+    "tags": [
+        "content",
+        "have api",
+        "tech blog"
+    ],
+    "created": "2019-12-19",
+    "modified": "2019-12-19",
+    "url": "https:\/\/raw.githubusercontent.com\/api-evangelist\/sweetcode\/master\/apis.json",
+    "specificationVersion": "0.14",
+    "apis": [
+        {
+            "name": "Sweetcode",
+            "description": null,
+            "image": "http:\/\/kinlane-productions.s3.amazonaws.com\/api-evangelist-site\/company\/logos\/Sweetcode-gray-shadow-300px.png",
+            "humanURL": "http:\/\/sweetcode.io",
+            "baseURL": "",
+            "tags": [],
+            "properties": [
+                {
+                    "type": "x-openapi",
+                    "url": "https:\/\/raw.githubusercontent.com\/api-evangelist\/1forge\/master\/sweetcode-openapi.json"
+                },
+                {
+                    "type": "x-postman-collecction",
+                    "url": "https:\/\/raw.githubusercontent.com\/api-evangelist\/1forge\/master\/sweetcode-postman-collection.json"
+                }
+            ]
+        }
+    ],
+    "include": [],
+    "x-common": [
+        {
+            "type": "Blog RSS",
+            "url": "https:\/\/sweetcode.io\/feed\/"
+        },
+        {
+            "type": "Website",
+            "url": "http:\/\/sweetcode.io"
+        },
+        {
+            "type": "Twitter",
+            "url": "https:\/\/twitter.com\/SweetCodeHQ"
+        },
+        {
+            "type": "Website",
+            "url": "https:\/\/sweetcode.io"
+        }
+    ]
+}
